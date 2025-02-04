@@ -127,6 +127,7 @@ public class MainActivity extends AppCompatActivity {
                         // Math Formulas Fragment/Activity লোড করুন
                         Toast.makeText(MainActivity.this, "Math Formulas", Toast.LENGTH_SHORT).show();
 
+
                         return true;
 
                     default:
